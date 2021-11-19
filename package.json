@@ -1,0 +1,11 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "A simple blackjack game. Just for fun",
+  "main": "Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seren.dipite",
+  "license": "ISC"
+}
